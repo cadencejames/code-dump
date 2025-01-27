@@ -8,3 +8,4 @@ A collection of miscellaneous scripts I’ve written for automation, utilities, 
 
 ## Features
 - Base 64 encoder/decoder
+- Zip subfolders
