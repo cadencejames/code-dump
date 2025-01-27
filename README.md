@@ -7,5 +7,5 @@
 A collection of miscellaneous scripts I’ve written for automation, utilities, and random coding experiments. These scripts serve as quick solutions to various problems and may be updated or expanded over time.
 
 ## Features
-- Base 64 encoder/decoder
-- Zip subfolders
+- [Base 64 encoder/decoder](b64coder.py)
+- [Zip subfolders](zip-subfolders.py)
